@@ -1,0 +1,45 @@
+import{f as a,a as s}from"../chunks/BsTUpgkJ.js";import"../chunks/C6FqIZj5.js";import{q as u,t as r,v as n,n as l}from"../chunks/B6ju8nju.js";import{s as m}from"../chunks/D4vL9840.js";const o=""+new URL("../assets/game.D5rXRP3u.png",import.meta.url).href;var c=a(`<header><h1>Stjernespill</h1> <p>Vi er en ungdomsbedrift fra Amalie Skram som selger brettspill
+    tilpasset barn med synsnedsettelser🤩🥰</p></header> <img alt="Spill" class="inline-img"/> <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas leo
+  justo, aliquam dapibus faucibus eget, porta a est. Duis metus massa,
+  imperdiet a vehicula ac, tristique non lacus. In eros dolor, pharetra
+  vitae tempus vitae, scelerisque nec justo. Donec at eleifend sapien, nec
+  interdum nunc. Nunc vitae dui et nulla feugiat feugiat. Maecenas auctor
+  fermentum diam at sagittis. In et convallis lorem, eget bibendum nibh.
+  Maecenas eget maximus ante. Nam consequat libero vitae finibus
+  ultricies. Aenean augue felis, mattis ut sagittis vel, ultricies a
+  libero. Suspendisse iaculis arcu leo, id imperdiet nibh tempus et.
+  Integer mattis tincidunt velit, in laoreet turpis. Vivamus gravida
+  feugiat luctus. Curabitur luctus tortor tortor, eu porttitor ex interdum
+  a. Duis lacinia vel dui quis molestie. Vivamus blandit metus mauris, id
+  fermentum diam dapibus quis.</p> <p>Nulla convallis, mauris eu hendrerit feugiat, diam risus malesuada erat,
+  a euismod est urna in ante. Cras eget auctor urna, vel pretium ante. Ut
+  tincidunt consectetur nunc sit amet suscipit. Fusce vulputate varius
+  dolor. Donec vehicula, erat sed convallis rutrum, turpis leo mattis
+  diam, suscipit rutrum est augue id nulla. Curabitur facilisis lectus
+  ante, quis rhoncus sem viverra ut. Fusce tristique purus dui, quis
+  laoreet urna dapibus at. Aenean id erat tortor. Aliquam ultricies, enim
+  vel euismod malesuada, massa lorem consectetur velit, eget fermentum
+  mauris tortor eu tortor. Curabitur consectetur eget odio et tempus.
+  Maecenas orci felis, pellentesque in magna sit amet, feugiat lobortis
+  lectus. Phasellus tempus nisl tempor ante auctor rutrum. Donec sodales
+  erat at vulputate sollicitudin.</p> <p>Nam est nibh, pretium id lorem vitae, pellentesque hendrerit nisl. Etiam
+  quis quam tincidunt, facilisis neque a, ultricies libero. Nulla sodales
+  venenatis diam at tempor. Sed dapibus a arcu vel mollis. Donec tincidunt
+  eros in lectus eleifend pellentesque. Mauris vestibulum massa in
+  interdum feugiat. Morbi fringilla posuere nisi, in convallis tortor
+  rhoncus sed.</p> <p>Aenean condimentum mollis odio, ac vehicula mi rutrum at. Phasellus
+  facilisis, enim ac eleifend mattis, mi turpis placerat felis, ac
+  ullamcorper diam nibh ac quam. Pellentesque ac magna id eros tincidunt
+  placerat. Sed sit amet fermentum erat. Aenean euismod, tortor eget
+  volutpat interdum, velit mauris efficitur enim, in varius leo mauris a
+  risus. Sed velit erat, bibendum ac neque eget, dictum varius enim.
+  Maecenas magna nulla, cursus vitae sem quis, fermentum consequat mi.</p> <p>Quisque eu erat facilisis, consequat arcu id, aliquam neque. Ut in
+  laoreet nisi. Vivamus massa tellus, consequat in metus finibus,
+  imperdiet porta nulla. Aliquam commodo molestie euismod. Morbi dignissim
+  ut magna nec ultrices. In posuere sollicitudin nunc, sit amet commodo
+  nisl iaculis nec. Vestibulum condimentum nunc eget ultricies laoreet.
+  Proin a nunc quis mauris euismod egestas. Praesent quis nisi suscipit,
+  auctor sem ac, elementum arcu. Duis luctus augue tellus, quis porta
+  turpis iaculis vel. Nullam auctor non diam et porta. Praesent vestibulum
+  maximus augue, vitae ultrices sapien dapibus eu. Integer maximus
+  sollicitudin nisi, consequat sagittis enim convallis non.</p>`,1);function f(i){var e=c(),t=u(r(e),2);l(10),n(()=>m(t,"src",o)),s(i,e)}export{f as component};
