@@ -38,3 +38,37 @@
     </li>
   </ul>
 </footer>
+
+<style>
+  footer {
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: column;
+    margin: 2rem 0;
+
+    > ul {
+      list-style: none;
+      display: flex;
+      justify-content: center;
+      gap: 2rem;
+
+      a {
+        color: var(--fg);
+        height: 3rem;
+        width: 3rem;
+        display: inline-block;
+        transition: transform 200ms ease;
+
+        &:hover {
+          transform: scale(1.1);
+        }
+
+        &:active {
+          transform: scale(1);
+        }
+      }
+    }
+  }
+</style>
