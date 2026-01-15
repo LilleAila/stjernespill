@@ -26,19 +26,31 @@ body {
 }
 
 main {
-	padding: 2rem;
+	padding: 2rem 5rem;
 	flex: 1;
 }
 
 header {
-	text-align: center;
+	text-align: left;
 	line-height: 4rem;
+	font-size: 1.5rem;
+	h1 {
+		font-size: 5rem;
+		margin-bottom: 0;	
+	}
 }
 
-.inline-img {
-	float: left;
+.inline-left, .inline-right {
 	width: 25rem;
 	height: auto;
 	margin-right: 1rem;
 	margin-bottom: 1rem;
+}
+
+.inline-left {
+	float: left;
+}
+
+.inline-right {
+	float: right;
 }

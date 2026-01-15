@@ -3,15 +3,23 @@
   import game from "$lib/assets/game.png";
 </script>
 
-<header>
-  <h1>Stjernespill</h1>
-  <p>
-    Vi er en ungdomsbedrift fra Amalie Skram som selger brettspill
-    tilpasset barn med synsnedsettelser🤩🥰
-  </p>
+<header class="header1">
+  <div class="text">
+    <h1>Stjernespill UB</h1>
+    <h3>
+      Vi lager brettspill som er spesielt tilpasset svaksynte mennesker!
+    </h3>
+    <p>
+      Skole: Amalie Skram VGS <br />
+      Skoleår: 2025/2026 <br />
+      Kontakt: stjernespillub@gmail.com
+    </p>
+  </div>
+
+  <img src={logo} alt="Logo" />
 </header>
 
-<img src={game} alt="Spill" class="inline-img" />
+<img src={game} alt="Spill" class="inline-left" />
 
 <p>
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas leo
@@ -71,3 +79,20 @@
   maximus augue, vitae ultrices sapien dapibus eu. Integer maximus
   sollicitudin nisi, consequat sagittis enim convallis non.
 </p>
+
+
+<style>
+  .header1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    place-items: flex-start;
+    padding-bottom: 3rem;
+    gap: 3rem;
+    img {
+      border-radius: 12px;
+      width: auto;
+      height: 25rem;
+    }
+  }
+</style>
