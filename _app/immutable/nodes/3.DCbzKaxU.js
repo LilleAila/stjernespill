@@ -1,4 +1,4 @@
-import{f as t,a}from"../chunks/BNDMo1kJ.js";import"../chunks/C4kM7CvW.js";import{n as u}from"../chunks/Ds-fX3mA.js";var s=t(`<header><h1>Stjernespill</h1> <p>Vi er en ungdomsbedrift fra Amalie Skram som selger brettspill
+import{f as t,a}from"../chunks/ORwccYAD.js";import"../chunks/CMQG2zkN.js";import{n as u}from"../chunks/C7OkmYsN.js";var s=t(`<header><h1>Stjernespill</h1> <p>Vi er en ungdomsbedrift fra Amalie Skram som selger brettspill
     tilpasset barn med synsnedsettelser🤩🥰</p></header> <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas leo
   justo, aliquam dapibus faucibus eget, porta a est. Duis metus massa,
   imperdiet a vehicula ac, tristique non lacus. In eros dolor, pharetra

@@ -1,5 +1,4 @@
-import{f as a,a as s}from"../chunks/BNDMo1kJ.js";import"../chunks/C4kM7CvW.js";import{q as u,t as r,v as n,n as l}from"../chunks/Ds-fX3mA.js";import{s as m}from"../chunks/BxBnpIBo.js";const o=""+new URL("../assets/game.D5rXRP3u.png",import.meta.url).href;var c=a(`<header><h1>Stjernespill</h1> <p>Vi er en ungdomsbedrift fra Amalie Skram som selger brettspill
-    tilpasset barn med synsnedsettelser🤩🥰</p></header> <img alt="Spill" class="inline-img"/> <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas leo
+import{f as n,a as l}from"../chunks/ORwccYAD.js";import"../chunks/CMQG2zkN.js";import{q as m,t as o,v as t,w as c,x as d,n as p}from"../chunks/C7OkmYsN.js";import{s as a,l as v}from"../chunks/BTKh-xN3.js";const g=""+new URL("../assets/game.qfr-rV93.png",import.meta.url).href;var f=n(`<header class="header1 svelte-1uha8ag"><div class="text"><h1>Stjernespill UB</h1> <h3>Vi lager brettspill som er spesielt tilpasset svaksynte mennesker!</h3> <p>Skole: Amalie Skram VGS <br/> Skoleår: 2025/2026 <br/> Kontakt: stjernespillub@gmail.com</p></div> <img alt="Logo" class="svelte-1uha8ag"/></header> <img alt="Spill" class="inline-left"/> <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas leo
   justo, aliquam dapibus faucibus eget, porta a est. Duis metus massa,
   imperdiet a vehicula ac, tristique non lacus. In eros dolor, pharetra
   vitae tempus vitae, scelerisque nec justo. Donec at eleifend sapien, nec
@@ -42,4 +41,4 @@ import{f as a,a as s}from"../chunks/BNDMo1kJ.js";import"../chunks/C4kM7CvW.js";i
   auctor sem ac, elementum arcu. Duis luctus augue tellus, quis porta
   turpis iaculis vel. Nullam auctor non diam et porta. Praesent vestibulum
   maximus augue, vitae ultrices sapien dapibus eu. Integer maximus
-  sollicitudin nisi, consequat sagittis enim convallis non.</p>`,1);function f(i){var e=c(),t=u(r(e),2);l(10),n(()=>m(t,"src",o)),s(i,e)}export{f as component};
+  sollicitudin nisi, consequat sagittis enim convallis non.</p>`,1);function x(s){var i=f(),e=m(i),u=t(c(e),2);d(e);var r=t(e,2);p(10),o(()=>{a(u,"src",v),a(r,"src",g)}),l(s,i)}export{x as component};
